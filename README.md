@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.kaggle.com/max150797"><img src='https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white'></a>
+  <a href="https://www.kaggle.com/max150797/competitions?tab=active"><img src='https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white'></a>
   <a href="https://www.codewars.com/users/max150797@yandex.ru/"><img src='https://img.shields.io/badge/-Codewars-191002?style=for-the-badge&logo=Codewars&logoColor=red'></a> 
 </p>
 
